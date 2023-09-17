@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Vanshjais1777
 - 👀 I’m interested in PROBLEM-SOLVING and WEB-DEVELOPMENT
 - 🌱 I’m currently learning ...DSA and MERN STACK WEB-DEVELOPMENT
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...My LinkedIn - https://www.linkedin.com/in/vansh-jaiswal-806271218
 
 <!---
